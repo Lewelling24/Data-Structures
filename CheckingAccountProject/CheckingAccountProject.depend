@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1579703441 source:h:\csc375\checkingaccountproject\main.cpp
+	<iostream>
+	"CheckingAccount.h"
+
+1578497903 h:\csc375\checkingaccountproject\include\checkingaccount.h
+	<string.h>
+
+1580139869 h:\csc375\checkingaccountproject\checkingaccount.h
+	<string.h>
+	<iostream>
+
